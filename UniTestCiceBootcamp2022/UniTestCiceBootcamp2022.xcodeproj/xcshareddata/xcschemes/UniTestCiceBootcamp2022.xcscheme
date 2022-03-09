@@ -28,6 +28,16 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F65633CF27D7ECC90004EE76"
+               BuildableName = "UniTestCiceBootcamp2022Tests.xctest"
+               BlueprintName = "UniTestCiceBootcamp2022Tests"
+               ReferencedContainer = "container:UniTestCiceBootcamp2022.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
